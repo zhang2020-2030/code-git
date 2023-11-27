@@ -1,0 +1,1 @@
+CREATE TABLE `activity_activitycity` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `city` varchar(32) NOT NULL, `type` varchar(32) NOT NULL);
